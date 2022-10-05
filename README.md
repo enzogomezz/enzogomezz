@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @enzogomezz! I’m learning JavaScript, HTML5 and CSS.
+- you can reach me via e-mail: caioenzo@gmail.com
